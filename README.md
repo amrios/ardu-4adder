@@ -27,6 +27,7 @@ The program does use binary addition and subtraction logic. It does not convert 
 ## Issues
 
 * Subtraction might be incorrect since the solution to ignore the leftover carry was to set the last digit to 1. Needs proper implementation.
+* Remove commented out debug code that was left.
 
 ## Video
 
